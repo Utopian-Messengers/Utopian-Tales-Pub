@@ -22,7 +22,7 @@ LFS的使用可以参见官方说明：[Git Large File Storage](https://git-lfs.
 ```
 git lfs install #安装LFS
 find ./ -type f -size +102400k #查找超过100M的文件
-git lfs track “*.xxx” #根据查找到的文件更改
+git lfs track “*.xxx” #根据查找到的文件更改   
 ```
 
 之后正常add, commit, push就行，不过得把.gitattributes给add进去。我比较喜欢用的方式如下：
