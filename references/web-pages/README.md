@@ -10,30 +10,6 @@
 
 ## 网页链接
 
-### 红色中国网
-
-* [要善于想象革命-红色中国网 (redchinacn.net)](http://www.redchinacn.net/portal.php?mod=view&aid=48375)
-* [评帝国主义的文化入侵 —— 我们需要无产阶级的革命文艺-红色中国网 (redchinacn.net)](http://www.redchinacn.net/portal.php?mod=view&aid=50668)
-* [“毒教材”被群众批倒批臭了 —— 滠水农夫之流却很失望-红色中国网 (redchinacn.net)](http://www.redchinacn.net/portal.php?mod=view&aid=50522)
-* [莫言的假语与脏嘴-红色中国网 (redchinacn.net)](http://www.redchinacn.net/portal.php?mod=view&aid=50630)
-* [千里之堤，溃于蚁穴-红色中国网 (redchinacn.net)](http://www.redchinacn.net/portal.php?mod=view&aid=50641)
-* [河南省政府勾结黑社会镇压村镇银行维权储户-红色中国网 (redchinacn.net)](http://www.redchinacn.net/portal.php?mod=view&aid=50618)
-* [老佛爷的大智慧-红色中国网 (redchinacn.net)](http://www.redchinacn.net/portal.php?mod=view&aid=50685)
-* [大规模人口贩卖是中国资本主义复辟的缩影-红色中国网 (redchinacn.net)](http://www.redchinacn.net/portal.php?mod=view&aid=50084)
-* [中国海外扩张 —— 跛脚的帝国-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=50669)
-* [大学生为什么应该利用暑假去工厂打工？-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=50687)
-* [晚期新自由主义时代的世界阶级斗争-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=47502)
-* [二十一世纪的“帝国主义”问题-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=50211)
-* [今天的革命青年有今天的问题，但有一点是幸运的-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=50247)
-* [穿帮啦！莫言文学-红色中国网](http://redchinacn.net/portal.php?mod=view&aid=50567)
-* [我们当前斗争的形式-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=50511)
-* [疫情正在大大加强无产阶级的力量-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=50663)
-* [关于佩洛西访台后公开宣传方针的建议-红色中国网](http://redchinacn.net/portal.php?mod=view&aid=50678)
-* [中国资产阶级的内斗 —— 一场打扮成路线斗争的派系斗争-红色中国网](http://redchinacn.net/portal.php?mod=view&aid=49866)
-* [试论无产阶级持久战及“躺平”在阶级斗争中的战略意义-红色中国网](http://redchinacn.net/portal.php?mod=view&aid=49640)
-* [社会主义国家为什么会发生资本主义复辟 —— 兼谈向无阶级社会过渡的问题 ... ... ... ...-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=50697)
-* [互联网左群调研报告-红色中国网](http://www.redchinacn.net/portal.php?mod=view&aid=50695)
-
 ### 激流网
 
 * [“躺平学”：当“内卷”令人倦怠，那我就退出竞争 - 激流网 (jiliuwang.net)](https://jiliuwang.net/archives/95984)
